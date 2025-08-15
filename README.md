@@ -5,3 +5,4 @@ NO CODE, FIRMWARE, SOFTWARE, ETC, just a pcb design for hobby.
 
 <img width="1920" height="1080" alt="pcb1" src="https://github.com/user-attachments/assets/12e26297-ad1b-4125-8bd7-7966268caa12" />
 
+<img width="1920" height="1080" alt="pcb3" src="https://github.com/user-attachments/assets/aaad1cfa-22b5-4799-928d-9f678fdc9b71" />
