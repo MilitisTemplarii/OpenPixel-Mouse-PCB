@@ -1,3 +1,4 @@
+# OpenPixel
 # Mouse-PCB-STM32-PAW3395
 BOM file soon :D
 
